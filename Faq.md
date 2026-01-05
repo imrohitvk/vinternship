@@ -16,8 +16,9 @@ order: 2
 7. [ViBe Platform](#7-vibe-platform)
 8. [Cliq Channel](#8-cliq-channel)
 9. [MERN Case Studies](#9-mern-case-studies)
-<!-- 10. [Health Points System](#10-health-points-system) -->
-<!-- 11. [Viva/PES (Endorsements)](#11-vivapes-endorsements) -->
+10. [Ejection Policy](#10-ejection-policy)
+<!-- 11. [Health Points System](#10-health-points-system) -->
+<!-- 12. [Viva/PES (Endorsements)](#11-vivapes-endorsements) -->
 
 ---
 
@@ -396,3 +397,63 @@ Additionally, **Silver and Golden Tickets** will be issued to selected participa
 **11.14 How do I earn a Silver ticket?**  
 Anyone who endorses **more than 25 people** will be evaluated by the Teaching Team and will be issued a Silver Ticket.
 -->
+## 10. Ejection Policy
+
+**10.1 What is the Ejection Policy?**  
+The Ejection Policy is a structured mechanism designed to maintain a high-energy, focused learning environment. It ensures that the internship cohort consists of actively engaged participants who are consistently making progress. The policy promotes momentum, accountability, and fairness across the cohort.
+
+---
+
+**10.2 Why does the program have an Ejection Policy?**  
+The policy exists to protect the learning ecosystem. Collaborative activities such as peer-to-peer viva sessions, case study discussions, and cohort-based learning are meaningful only when participants are equally invested. The Ejection Policy ensures that program resources are dedicated to committed learners and that prolonged disengagement does not dilute the experience for others.
+
+---
+
+**10.3 What are the types of ejection in this program?**  
+There are **two types of ejection**:
+
+- **Forward Eject (The Ascent):**  
+  Participants who consistently demonstrate exceptional performance, sustained momentum, and high engagement may be elevated to advanced opportunities such as leadership roles, advanced responsibilities, or fellowship considerations.
+
+- **Backward Eject (The Departure):**  
+  Participants who remain persistently inactive or disengaged may be removed from the program to preserve the quality and seriousness of the cohort.
+
+---
+
+**10.4 What does “Backward Eject” mean?**  
+Backward Eject refers to the removal of a participant from the internship due to sustained inactivity. This ensures that collaborative learning activities are conducted among participants who are actively contributing and progressing.
+
+---
+
+**10.5 How is inactivity measured for Backward Ejection?**  
+Backward Ejection is triggered **only if both conditions are met simultaneously**:
+
+1. Your average daily progress on the ViBe platform falls **below 3.33% per day**, **and**  
+2. Your overall engagement level places you within the **bottom 10% of the active cohort**.
+
+This dual-condition check ensures fairness and prevents short-term slowdowns from being penalized.
+
+---
+
+**10.6 Is the ejection process manual or automated?**  
+The process is **automated and data-driven**. An algorithm evaluates progress and cohort standing objectively, ensuring transparency and eliminating subjective bias or manual intervention.
+
+---
+
+**10.7 Can I avoid being ejected from the program?**  
+Yes. Maintaining steady progress above the minimum threshold and remaining actively engaged with the ViBe platform ensures that your position in the program remains secure.
+
+---
+
+**10.8 Is the Ejection Policy the same as the Discontinuation Policy?**  
+No. The **Discontinuation Policy** addresses prolonged inactivity at an administrative level. The **Ejection Policy** is a real-time, algorithm-based mechanism focused on maintaining cohort momentum, engagement health, and learning quality.
+
+---
+
+**10.9 Can I appeal an ejection decision?**  
+No. Ejection decisions are **final and non-appealable**, as they are based on objective, automated criteria applied uniformly across the cohort.
+
+---
+
+**10.10 Does being ejected affect future opportunities?**  
+Backward Ejection removes you from the current cohort only. Forward Ejection, however, may open pathways to advanced leadership roles or fellowship nominations based on demonstrated excellence and reflective learning practices.
